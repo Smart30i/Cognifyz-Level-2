@@ -1,3 +1,6 @@
+body{
+  background: rgb(181, 228, 228);
+}
 :root {
   --transition-duration: 0.3s; 
   --text-color-default : #333;
@@ -89,4 +92,7 @@ p {
 
 .col[data-lang="kotlin"] {
   --text-color: #f18e8e;
+}
+.col{
+  background: rgb(232, 187, 160);
 }

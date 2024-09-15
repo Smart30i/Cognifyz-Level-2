@@ -93,6 +93,7 @@ nav ul a:hover {
 
 #about {
     text-align: center;
+    background: rgb(230, 214, 214);
 }
 
 #about h2 {
@@ -302,6 +303,7 @@ nav ul a:hover {
 }
 .a{
     border: 1px solid black;
+    background: rgb(230, 214, 214);
 }
 
 /* Responsive Styles */
@@ -379,4 +381,13 @@ nav ul a:hover {
     #contact h2{
         text-align: center;
     }
+}
+.grid-container{
+    background: #d5dec8;
+}
+.box1{
+    background: #e5d1cc94;
+}
+.contact-form input, .contact-form textarea{
+    background-color: #7ae4ea;
 }

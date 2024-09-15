@@ -2,6 +2,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background: grey;
 }
 h1{
     font-family: 'Poppins', sans-serif;
@@ -25,4 +26,7 @@ h1{
 .card:hover {
   transform: translateY(-20px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+.card{
+  background: rgb(112, 211, 211);
 }
